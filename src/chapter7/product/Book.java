@@ -1,9 +1,9 @@
 package chapter7.product;
 
 public class Book extends Product{
-    int ISBNNum;
-    String author;
-    String bookTitle;
+    protected int ISBNNum;
+    protected String author;
+    protected String bookTitle;
 
     public Book(int ISBNNum) {
         this.ISBNNum = ISBNNum;

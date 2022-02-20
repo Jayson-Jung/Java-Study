@@ -5,10 +5,10 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Product {
-    int idNum;
-    String description;
-    String producer;
-    String priceInfo;
+    protected int idNum;
+    protected String description;
+    protected String producer;
+    protected String priceInfo;
 
     ArrayList<Product> productList = new ArrayList<>();
 
