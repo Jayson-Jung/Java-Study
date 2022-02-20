@@ -1,4 +1,4 @@
-package chapter10.interfaceex;
+package chapter10.interfaceex.store;
 
 public class Customer implements Buy, Sell{
     @Override

@@ -1,4 +1,4 @@
-package chapter10.interfaceex;
+package chapter10.interfaceex.calculator;
 
 public interface Calc {// 인터페이스엔 상수와 추상메서드가 정의된다.
     double PI = 3.14;       // final 선언을 하지 않아도 상수로 선언된다.

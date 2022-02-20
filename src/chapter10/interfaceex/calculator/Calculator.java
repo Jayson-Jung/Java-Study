@@ -1,4 +1,4 @@
-package chapter10.interfaceex;
+package chapter10.interfaceex.calculator;
 
 public abstract class Calculator implements Calc{
     //인터페이스 타입을 상속했다 해서 타입상속이라 부른다.

@@ -1,4 +1,4 @@
-package chapter10.interfaceex;
+package chapter10.interfaceex.calculator;
 
 public class CalculatorTest {
 

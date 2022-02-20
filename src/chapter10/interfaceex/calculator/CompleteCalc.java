@@ -1,4 +1,4 @@
-package chapter10.interfaceex;
+package chapter10.interfaceex.calculator;
 
 public class CompleteCalc extends Calculator{
     // Calculator 중에 일부 -- 구현상속이라한다. (implements는 타입상속, extends는 구현상속이라한다.)
